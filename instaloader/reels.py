@@ -1,4 +1,4 @@
-import instaloader
+import .instaloader
 import time
 import os
 import argparse
